@@ -1,6 +1,6 @@
 Course Project 1 - Reproducible Research
 --------------------------------------------------
-
+ 
 ## 1. Code for reading in the dataset and/or processing the data
 
 ```{r}
